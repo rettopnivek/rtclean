@@ -1,0 +1,11 @@
+Package: rtclean
+Title: Outlier Removal for Response Times
+Version: 0.0.0.9000
+Authors@R: person("Kevin", "Potter", email = "kevin.w.potter@gmail.com", role = c("aut", "cre"))
+Description: A set of R functions for trimming outliers in response times for
+    simple psychological tasks.
+Depends:
+    R (>= 3.0.0)
+License: What license is it under?
+LazyData: true
+RoxygenNote: 5.0.1
